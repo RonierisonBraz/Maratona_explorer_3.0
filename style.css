@@ -14,6 +14,9 @@ h1, h2, h3, .price{
   text-transform: uppercase;
   color: #2d2c2a;
 }
+.price{
+  margin-left: 10px;
+}
 
   ul {
     list-style: nome;
